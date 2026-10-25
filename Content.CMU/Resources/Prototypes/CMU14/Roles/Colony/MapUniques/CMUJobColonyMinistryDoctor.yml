@@ -44,3 +44,21 @@
 - type: playTimeTracker
   id: CMUJobColonyMinistryDoctor
   isHumanoid: true
+
+- type: roleLoadout
+  id: JobCMUJobColonyMinistryDoctor
+  points: 7
+  groups:
+  - CivSatchelAU14
+  - CivFootwearAU14
+  - ColonyMedHatsAU14
+  - CivGlassesAU14
+  - ColonyMedJumpsuitAU14
+  - ColonyMedJacketAU14
+  - PaperworkRMC
+  - RecreationalRMC
+  - CannedDrinksAU14
+  - SmokablesRMC
+  - EyewearRMC
+  - MasksRMC
+  - HeadwearCLFAU14

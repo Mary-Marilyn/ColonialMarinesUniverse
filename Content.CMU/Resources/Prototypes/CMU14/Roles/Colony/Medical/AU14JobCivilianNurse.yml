@@ -63,9 +63,9 @@
   points: 7
   groups:
   - MedBackpackAU14
-  - MedJumpsuitAU14
-  - MedHatsAU14
-  - MedJacketAU14
+  - ColonyMedJumpsuitAU14
+  - ColonyMedHatsAU14
+  - ColonyMedJacketAU14
   - MedGlovesAU14
   - CivFootwearAU14
   - MedMaskAU14

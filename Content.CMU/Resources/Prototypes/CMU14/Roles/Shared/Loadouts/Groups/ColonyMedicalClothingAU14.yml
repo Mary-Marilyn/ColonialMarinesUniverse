@@ -1,0 +1,26 @@
+- type: loadoutGroup
+  parent: CivJumpsuitAU14
+  id: ColonyMedJumpsuitAU14
+  loadouts:
+  - ScrubsBlueRMC
+  - ScrubsLightBlueRMC
+  - ScrubsGreenRMC
+  - ScrubsPurpleRMC
+  - ScrubsOliveRMC
+  - ScrubsGreyRMC
+
+- type: loadoutGroup
+  parent: CivHatsAU14
+  id: ColonyMedHatsAU14
+  loadouts:
+  - HeadCapSurgBlueAU14
+  - HeadCapSurgGreenAU14
+
+- type: loadoutGroup
+  parent: CivJacketAU14
+  id: ColonyMedJacketAU14
+  loadouts:
+  - LabcoatRMC
+  - LabcoatRMCShort
+  - LabcoatRMCLong
+  - LabcoatRMCBrown
