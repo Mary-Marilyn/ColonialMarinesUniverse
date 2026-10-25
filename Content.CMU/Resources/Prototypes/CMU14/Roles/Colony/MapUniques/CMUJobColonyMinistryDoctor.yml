@@ -51,10 +51,13 @@
   groups:
   - CivSatchelAU14
   - CivFootwearAU14
-  - ColonyMedHatsAU14
+  - MedHatsAU14
+  - CivHatsAU14
   - CivGlassesAU14
-  - ColonyMedJumpsuitAU14
-  - ColonyMedJacketAU14
+  - MedJumpsuitAU14
+  - CivJumpsuitAU14
+  - MedJacketAU14
+  - CivJacketAU14
   - PaperworkRMC
   - RecreationalRMC
   - CannedDrinksAU14

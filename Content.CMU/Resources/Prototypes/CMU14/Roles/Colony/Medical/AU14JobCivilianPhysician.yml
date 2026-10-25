@@ -74,9 +74,12 @@
   groups:
   - CivilianPhysicianSpecializationAU14
   - MedBackpackAU14
-  - ColonyMedJumpsuitAU14
-  - ColonyMedHatsAU14
-  - ColonyMedJacketAU14
+  - MedJumpsuitAU14
+  - CivJumpsuitAU14
+  - MedHatsAU14
+  - CivHatsAU14
+  - MedJacketAU14
+  - CivJacketAU14
   - MedGlovesAU14
   - CivFootwearAU14
   - MedMaskAU14
